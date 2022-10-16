@@ -1,18 +1,18 @@
 module.exports = {
-  email: 'francoezapata1@gmail.com',
+  email: 'francoasdev@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/zfranco1',
+      url: 'https://github.com/francoasdev',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/franco.miblog',
+      url: 'https://www.instagram.com/francoasdev',
     },
     {
       name: 'Twitter',
-      url: '',
+      url: 'https://twitter.com/francoasdev',
     },
     {
       name: 'Linkedin',

@@ -64,17 +64,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a tech enthusiast with large experience in business and coordinating work groups that
-        now is looking for a job as a backend developer using Ruby On Rails as main technology.
+        I am a tech enthusiast with a business background, looking for new experiences as a software
+        developer using Ruby On Rails as main technology. I am currently working as Fullstack Ruby
+        On Rails Developer at mibucle.com
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="mailto:francoezapata1@gmail.com"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="mailto:francoasdev@gmail.com" target="_blank" rel="noreferrer">
       Get in touch
     </a>
   );
