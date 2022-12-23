@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'React Calculator'
 cover: './react_calculator.png'
 github: 'https://github.com/francoasdev/React-calculator-app'
