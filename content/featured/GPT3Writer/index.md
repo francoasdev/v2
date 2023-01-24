@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'GPT3 Writer Assistant'
 cover: './demo.png'
 github: 'https://github.com/francoasdev/gpt3-writer-starter'
