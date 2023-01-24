@@ -1,7 +1,7 @@
 ---
 date: '1'
-title: 'Chuck's Jokes App'
-cover: './demo.png'
+title: 'Chucks Jokes App'
+cover: './chuck.png'
 github: 'https://github.com/francoasdev/chucks-jokes-app'
 external: 'https://chuck.fly.dev/'
 cta: 'https://chuck.fly.dev/'
@@ -10,7 +10,6 @@ tech:
   - Hotwire
   - CSS
   - Chuck Norris API
-  - PostgreSQL
 ---
 
 A Ruby On Rails app that consumes Chuck Norris API, to fetch jokes and save the ones you like into the database.
